@@ -10,6 +10,7 @@ Python Programming Course at RTU Fall 2020, also Spring 2021, Spring 2022, Fall 
 
 * Binder allows you to run Jupyter notebooks in the cloud
 
+
 ### Course Syllabus
 * Core Syntax
 * Flow Control
