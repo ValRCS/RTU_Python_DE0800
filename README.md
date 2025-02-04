@@ -1,4 +1,4 @@
-# RTU_Python_720_Fall_2020
+# RTU_Python_DE0800
 Python Programming Course at RTU Fall 2020, also Spring 2021, Spring 2022, Fall 2024, Spring 2025
 
 ### Our Python Introduction in Google Colab cloud
