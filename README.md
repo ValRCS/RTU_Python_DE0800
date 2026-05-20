@@ -10,6 +10,10 @@ This repository contains lecture notebooks, examples, exercises, data files, and
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Python_720_Fall_2020/blob/master/Python_Introduction.ipynb)
 
+### JSON APIs and LLMs in Google Colab
+
+[![Open Using LLMs and JSON APIs in Humanities Research in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Python_DE0800/blob/master/json_api/using_llm_in_humanities_research.ipynb)
+
 ### Open Whole Repository in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Python_720_Fall_2020/blob/master)
@@ -95,6 +99,10 @@ The repository is organized mostly as Jupyter notebooks. The list below groups t
 - [nlp/topic_nlp_techniques.ipynb](nlp/topic_nlp_techniques.ipynb) - overview of NLP techniques.
 - [nlp/topic_nlp_techniques_LV.ipynb](nlp/topic_nlp_techniques_LV.ipynb) - Latvian overview of NLP techniques.
 - [nlp/Project Ideas.ipynb](nlp/Project%20Ideas.ipynb) - NLP and programming project ideas.
+
+### JSON APIs and LLMs
+
+- [json_api/using_llm_in_humanities_research.ipynb](json_api/using_llm_in_humanities_research.ipynb) - JSON, API requests, and OpenRouter LLM workflows for humanities research. [Open in Colab](https://colab.research.google.com/github/ValRCS/RTU_Python_DE0800/blob/master/json_api/using_llm_in_humanities_research.ipynb).
 
 ### Visualization
 
